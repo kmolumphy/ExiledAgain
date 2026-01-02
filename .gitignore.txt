@@ -1,0 +1,26 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+#Local files folder
+ExternalFiles/
+
+# Rider / VS / CLion
+.idea/
+*.sln
+*.vcxproj*
+*.opensdf
+*.sdf
+*.suo
+
+# Mac
+.DS_Store
+
+# Build artifacts
+*.log
+
+# Unreal user-specific
+*.uproject.user

@@ -1,0 +1,6 @@
+*.uasset filter=lfs diff=lfs merge=lfs -text
+*.umap filter=lfs diff=lfs merge=lfs -text
+*.uexp filter=lfs diff=lfs merge=lfs -text
+*.ubulk filter=lfs diff=lfs merge=lfs -text
+Content/Maps/HeightMaps/Grand[[:space:]]Mountain[[:space:]]Height[[:space:]]Map[[:space:]]Shared/Height[[:space:]]Map[[:space:]]EXR.exr filter=lfs diff=lfs merge=lfs -text
+Content/Maps/HeightMaps/Grand[[:space:]]Mountain[[:space:]]Height[[:space:]]Map[[:space:]]Shared/Diffuse[[:space:]]Map[[:space:]]EXR.exr filter=lfs diff=lfs merge=lfs -text
